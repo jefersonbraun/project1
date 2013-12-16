@@ -5,7 +5,6 @@ permalink: /:categories/:title.html
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
 pygments: true
-baseurl: http://jefersonbraun.github.io/project1/
 
 topbar:
   - 
