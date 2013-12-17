@@ -1,10 +1,10 @@
 ---
 layout: post
-category : lessons
-tags : [learn]
-description: |
-  The Jekyll introduction outlines specifically what Jekyll is and why you would want to use it,
-  as well as exactly how Jekyll does what it does.
+category: lessons
+tags: 
+  - learn
+description: "The Jekyll introduction outlines specifically what Jekyll is and why you would want to use it,\nas well as exactly how Jekyll does what it does.\n"
+published: true
 ---
 
 ## Overview 
