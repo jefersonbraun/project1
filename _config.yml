@@ -4,8 +4,7 @@ permalink: :categories/:title.html
 
 host:        0.0.0.0
 port:        4000
-baseurl:     /project1
-url:         http://localhost:4000
+baseurl:     /                      #baseurl precisa ficar assim para funcionar localmente
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
@@ -38,7 +37,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://jefersonbraun.github.io/project1
+production_url : "http://jefersonbraun.github.io/project1"
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
