@@ -16,9 +16,12 @@ title: Blog Busca Corporativa
     
     <div class="container">
         <div class="row">
-            {% for post %}
+            <ul>
                 <li>{{ post.title }}</li>
-            {% endfor %}
+                <li>{{ post.content }}</li>
+            </ul>
+            
+            
             <div class="col-sm-6 col-md-4 col-lg-4">
                 <div class="thumbnail">
                     <div class="thumbPost" style="background-image: url('images/UCD-Dublin.png'); background-position: center;"></div>

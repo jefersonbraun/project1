@@ -2,6 +2,11 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: :categories/:title.html
 
+host:        0.0.0.0
+port:        4000
+baseurl:     /
+url:         http://localhost:4000
+
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
 pygments: true
