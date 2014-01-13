@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: page
 title: "Developer Documentation &amp; Community"
 ---
 {% include JB/setup %}
