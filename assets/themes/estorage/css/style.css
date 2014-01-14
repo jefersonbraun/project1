@@ -407,6 +407,7 @@ footer p {
 }
 
 .swiper-slide .caixaMagica h1 {
+    color: #fff;
     margin-top: 80px;
     text-align: center;
     font-size: 36px;
@@ -475,6 +476,7 @@ footer p {
 }
 
 .swiper-slide .brasil2014 h1 {
+    color: #fff;
     margin-top: 60px;
     font-size: 42px;
     font-weight: normal;
