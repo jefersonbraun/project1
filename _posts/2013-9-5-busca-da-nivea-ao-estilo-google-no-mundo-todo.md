@@ -29,4 +29,4 @@ A interface do resultado de busca mantém o estilo Google, ao qual todos já con
 
 ![Exemplo de resultado de busca no site brasileiro da NIVEA](/images/busca-da-nivea-5.png) ![Exemplo de resultado de busca no site mobile da NIVEA dos Estados Unidos](/images/busca-da-nivea-6.png)
 
-Interface web (site do Brasil) e mobile (site dos EUA) do resultado de busca da NIVEA, clique nas imagens para ampliá-las.
+Interface web (site do Brasil) e mobile (site dos EUA) do resultado de busca da NIVEA.
