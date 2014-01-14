@@ -5,7 +5,6 @@ layout: post
 category: busca-corporativa
 tags: 
   - GSA
-description: "none"
 ---
 
 ![Bandeira da Tailândia](/images/parlamento-tailandes-2.jpg)

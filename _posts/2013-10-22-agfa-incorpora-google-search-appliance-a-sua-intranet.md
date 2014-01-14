@@ -5,7 +5,6 @@ layout: post
 category: busca-corporativa
 tags: 
   - GSA
-description: "none"
 ---
 
 A AGFA é líder mundial em fornecimento e soluções de hardware e software para imagem digital a diversos mercados, sendo os principais a saúde e a indústria impressa.

@@ -5,7 +5,6 @@ layout: post
 category: busca-corporativa
 tags: 
   - GSA
-description: "none"
 ---
 
 A Google é líder mundial entre os buscadores, uma gigante da tecnologia e também uma das marcas mais valiosas do mundo. Sua divisão corporativa, a Google Enterprise, incorpora a órgãos públicos e companhias privadas uma expertise inestimável através de variados produtos e serviços.
