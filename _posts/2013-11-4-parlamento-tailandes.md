@@ -1,6 +1,6 @@
 ---
 title: Parlamento Tailandês passa a utilizar Google Search Appliance
-featimage: images/parlamento-tailandes-1.png
+featimage: /images/parlamento-tailandes-1.png
 layout: post
 category: busca-corporativa
 tags: 
@@ -22,4 +22,4 @@ O Google Search Appliance foi a melhor solução por diversos motivos. Além dos
 
 Há ainda um bônus, agora o conteúdo de cada documento pode ser encontrado já nas buscas realizadas no Google.com e em outros sistemas de busca, ou seja, o conteúdo público da biblioteca agora é facilmente localizado na internet e não somente dentro do site do órgão.
 
-Fonte: http://www.futuregov.asia/articles/2013/oct/22/new-search-engine-thailands-largest-digital-legisl/
+Fonte: [http://www.futuregov.asia/articles/2013/oct/22/new-search-engine-thailands-largest-digital-legisl/](http://www.futuregov.asia/articles/2013/oct/22/new-search-engine-thailands-largest-digital-legisl/)
