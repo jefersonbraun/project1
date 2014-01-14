@@ -18,7 +18,7 @@ title: Blog Busca Corporativa
             {% for post in site.posts limit:6 %}
             <div class="col-sm-6 col-md-4 col-lg-4">
                 <div class="thumbnail">
-                    <div class="thumbPost" style="background-image: url('images/UCD-Dublin.png'); background-position: center;"></div>
+                    <div class="thumbPost" style="background-image: url('{{ post.featimage }}'); background-position: center;"></div>
                     <div class="caption">
                         <p class="miniData">{{ post.date | date_to_string }}</p>
                         <h3>{{ post.title }}</h3>
