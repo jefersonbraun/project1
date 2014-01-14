@@ -21,12 +21,12 @@ topbar:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : JB
+title : E-Storage
 author :
-  name : Jade Dominguez
-  email : plusjade@gmail.com
-  github : plusjade
-  twitter : plusjade
+  name : 
+  email : contato@e-storageonline.com.br
+  github : jefersonbraun
+  twitter : e_storage
   feedburner : nil
 
 # The production_url is only used when full-domain names are needed

@@ -1,5 +1,6 @@
 ---
 title: Busca da NIVEA ao estilo Google no mundo todo
+author: Jeferson Braun
 featimage: /images/busca-da-nivea-1.png
 layout: post
 category: busca-corporativa
@@ -27,6 +28,8 @@ Funcionalidades como o thesaurus permitem que o appliance saiba que termos deve 
 
 A interface do resultado de busca mantém o estilo Google, ao qual todos já conhecem e é bastante fácil de utilizar.
 
-![Exemplo de resultado de busca no site brasileiro da NIVEA](/images/busca-da-nivea-5.png) ![Exemplo de resultado de busca no site mobile da NIVEA dos Estados Unidos](/images/busca-da-nivea-6.png)
+![Exemplo de resultado de busca no site brasileiro da NIVEA](/images/busca-da-nivea-5.png)    
+
+<img src="/images/busca-da-nivea-6.png" alt="Exemplo de resultado de busca no site mobile americano da NIVEA" style="display: block; margin-right: auto; margin-left: auto;">
 
 Interface web (site do Brasil) e mobile (site dos EUA) do resultado de busca da NIVEA.

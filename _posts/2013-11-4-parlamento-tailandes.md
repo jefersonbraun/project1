@@ -1,5 +1,6 @@
 ---
 title: Parlamento Tailandês passa a utilizar Google Search Appliance
+author: Jeferson Braun
 featimage: /images/parlamento-tailandes-1.png
 layout: post
 category: busca-corporativa

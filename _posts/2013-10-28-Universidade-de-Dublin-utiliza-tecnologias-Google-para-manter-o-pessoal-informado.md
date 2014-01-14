@@ -1,5 +1,6 @@
 ---
 title: Universidade de Dublin utiliza tecnologias Google para manter o pessoal informado
+author: Jeferson Braun
 featimage: /images/universidade-de-dublin-1.png
 layout: post
 category: busca-corporativa

@@ -1,5 +1,6 @@
 ---
 title: Os porquês da política de renovação do Google Search Appliance
+author: Jeferson Braun
 featimage: /images/os-porques-1.png
 layout: post
 category: busca-corporativa

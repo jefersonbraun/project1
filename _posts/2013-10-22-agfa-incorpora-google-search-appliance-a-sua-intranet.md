@@ -1,5 +1,6 @@
 ---
 title: AGFA incorpora Google Search Appliance a sua intranet
+author: Jeferson Braun
 featimage: /images/agfa-incorpora-1.png
 layout: post
 category: busca-corporativa
