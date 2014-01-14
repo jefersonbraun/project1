@@ -388,9 +388,8 @@ h6,
 footer {
     padding-top: 25px;
     padding-bottom: 25px;
-    
     background-color: #f8fafb;
-    border-top: 2px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
 }
 
 footer p {

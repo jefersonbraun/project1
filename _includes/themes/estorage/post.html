@@ -13,7 +13,25 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
-            <span class="meta">Publicado por <strong></>{{ page.author }}</strong> em <strong>{{ page.date | date_to_long_string }}</strong></span>
+            <span class="meta">Publicado por <strong></>{{ page.author }}</strong> em <strong>
+            <!-- changing months name to portuguese -->
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }} de
+            {% case m %}
+              {% when '1' %}janeiro
+              {% when '2' %}fevereiro
+              {% when '3' %}março
+              {% when '4' %}abril
+              {% when '5' %}maio
+              {% when '6' %}junho
+              {% when '7' %}júlio
+              {% when '8' %}agosto
+              {% when '9' %}setembro
+              {% when '10' %}outubro
+              {% when '11' %}novembro
+              {% when '12' %}dezembro
+            {% endcase %}de
+            {{ page.date | date: "%Y" }}</strong></span>
         </div>
         <div class="hiden-xs hiden-sm col-md-2 col-lg-2">
         </div>
