@@ -22,26 +22,7 @@ title: Blog Busca Corporativa
                         <div class="thumbPost" style="background-image: url('{{ post.featimage }}'); background-position: center;"></div>
                     </a>
                     <div class="caption">
-                        <p class="miniData">
-                            <!-- changing months name to portuguese -->
-                            {% assign m = page.date | date: "%-m" %}
-                            {{ page.date | date: "%-d" }} de
-                            {% case m %}
-                              {% when '1' %}janeiro
-                              {% when '2' %}fevereiro
-                              {% when '3' %}março
-                              {% when '4' %}abril
-                              {% when '5' %}maio
-                              {% when '6' %}junho
-                              {% when '7' %}júlio
-                              {% when '8' %}agosto
-                              {% when '9' %}setembro
-                              {% when '10' %}outubro
-                              {% when '11' %}novembro
-                              {% when '12' %}dezembro
-                            {% endcase %}de
-                            {{ page.date | date: "%Y" }}
-                        </p>
+                        <p class="miniData">{% include themes/estorage/date.md %}</p>
                         <h3>{{ post.title }}</h3>
                         <p><a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-laranjaVazado" role="button">Leia</a></p>
                     </div>
