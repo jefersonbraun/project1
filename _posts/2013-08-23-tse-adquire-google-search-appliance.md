@@ -1,5 +1,4 @@
 ---
-published: false
 title: TSE adquire Google Search Appliance
 author: Jeferson Braun
 featimage: "/images/tse-adquire-1.png"
