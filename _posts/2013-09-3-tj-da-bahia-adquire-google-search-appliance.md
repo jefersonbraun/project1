@@ -1,5 +1,4 @@
 ---
-published: false
 title: TJ da Bahia adquire Google Search Appliance
 author: Jeferson Braun
 featimage: "/images/tj-da-bahia-1.png"
@@ -9,7 +8,7 @@ tags:
   - GSA
 ---
 
-![Brasão do Tribunal de Justiça do Estado da Bahia](/images/tj-da-bahia-2.png)
+![Brasão do Tribunal de Justiça do Estado da Bahia](/images/tj-da-bahia-2.jpg)
 
 O Tribunal de Justiça do Estado da Bahia adquiriu a ferramenta de busca corporativa do Google – Google Search Appliance, também conhecido como GSA – para projeto de busca no portal e outras bases. O GSA adquirido tem capacidade de indexação de 2 milhões de documentos.
 
