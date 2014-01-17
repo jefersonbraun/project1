@@ -1,4 +1,5 @@
 ---
+published: false
 title: TSE adquire Google Search Appliance
 author: Jeferson Braun
 featimage: "/images/tse-adquire-1.png"
@@ -18,7 +19,7 @@ O que ocorre na verdade é o oposto, as pessoas se deparam com mais facilidade a
 
 AUDIO AQUI
 
->“A ferramenta do Google vai tornar a pesquisa intuitiva e célere e os resultados serão mais eficientes” – http://www.tse.jus.br/
+>“A ferramenta do Google vai tornar a pesquisa intuitiva e célere e os resultados serão mais eficientes” – [http://www.tse.jus.br/](http://www.tse.jus.br/)
 
 A expectativa é de que em setembro o appliance entre em produção. Entre as informações que serão indexadas pela ferramenta estão o site, pesquisa de jurisprudência, acórdãos, decisões monocráticas e resoluções.
 
