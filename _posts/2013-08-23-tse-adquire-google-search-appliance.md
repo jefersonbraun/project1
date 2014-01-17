@@ -16,12 +16,10 @@ Preferência não só nacional, como no mundo todo, o sistema de busca do Google
 
 O que ocorre na verdade é o oposto, as pessoas se deparam com mais facilidade ao navegar em uma página com GSA. É justamente o que o TSE procura: facilitar acesso às informações, além de sofisticar a busca de jurisprudência, acórdãos e resoluções.
 
-<a href="audioembedded.html" target="myplayer">Play audio</a>
-
 >“A ferramenta do Google vai tornar a pesquisa intuitiva e célere e os resultados serão mais eficientes” – http://www.tse.jus.br/
 
 A expectativa é de que em setembro o appliance entre em produção. Entre as informações que serão indexadas pela ferramenta estão o site, pesquisa de jurisprudência, acórdãos, decisões monocráticas e resoluções.
 
 Veja o vídeo do TSE sobre a nova aquisição:
 
-<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/CaAmpPeRhJE?hl=pt_BR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/CaAmpPeRhJE?hl=pt_BR&amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+{% youtube CaAmpPeRhJE 640 480 %}
