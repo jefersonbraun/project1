@@ -366,6 +366,12 @@ h6,
     color: #999;
 }
 
+.post > embed {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
 .caption h3 {
     height: 100px;
     width: 100%;
