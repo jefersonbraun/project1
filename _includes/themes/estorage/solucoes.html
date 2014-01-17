@@ -9,13 +9,10 @@
 </div>
 <div class="container post">
     <div class="row">
-        <div class="hiden-xs hiden-sm col-md-2 col-lg-2">
+        <div class="hiden-xs hiden-sm col-md-6 col-lg-6">
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-            <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
-            <span class="meta">Publicado por <strong></>{{ page.author }}</strong> em <strong>{% include themes/estorage/date.md %}</strong></span>
-        </div>
-        <div class="hiden-xs hiden-sm col-md-2 col-lg-2">
+        <div class="col-md-6 col-lg-6">
+            {% if page.tagline %}<p class="tagline">{{ page.tagline }}</p>{% endif %}
         </div>
     </div>
 
