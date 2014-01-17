@@ -16,8 +16,7 @@ Preferência não só nacional, como no mundo todo, o sistema de busca do Google
 
 O que ocorre na verdade é o oposto, as pessoas se deparam com mais facilidade ao navegar em uma página com GSA. É justamente o que o TSE procura: facilitar acesso às informações, além de sofisticar a busca de jurisprudência, acórdãos e resoluções.
 
-<a href="audioembedded.html" target="myplayer">Play audio</a>
-<iframe src="nothingplayingnow.html" name="myplayer"></iframe>
+AUDIO AQUI
 
 >“A ferramenta do Google vai tornar a pesquisa intuitiva e célere e os resultados serão mais eficientes” – http://www.tse.jus.br/
 
