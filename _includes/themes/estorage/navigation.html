@@ -1,25 +1,23 @@
-<ul class="nav navbar-nav">
-    {% for link in site.navigation %}
-        {% assign current = nil %}
-        {% if page.url == link.url or page.layout == link.layout %}
-            {% assign current = 'active' %}
-        {% endif %}
-    
-    {% if link.text == 'Soluções' %}
-            <li class="dropdown {{ current }}">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Soluções<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="/solucoes/judiciario.html">Judiciário</a></li>
-                        <li><a href="#">Intranet</a></li>
-                        <li><a href="#">Internet</a></li>
-                        <li><a href="#">E-commerce</a></li>
-                        <li><a href="#">GED</a></li>
-                    </ul>
-            </li>
-        {% else %}
-            <li class="{{ current }}">
-                <a href="{{ link.url }}">{{ link.text }}</a>
-            </li>
+{% for link in site.navigation %}
+    {% assign current = nil %}
+    {% if page.url == link.url or page.layout == link.layout %}
+        {% assign current = 'active' %}
     {% endif %}
-    {% endfor %}
-</ul>
+
+{% if link.text == 'Soluções' %}
+        <li class="dropdown {{ current }}">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Soluções<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/solucoes/judiciario.html">Judiciário</a></li>
+                    <li><a href="#">Intranet</a></li>
+                    <li><a href="#">Internet</a></li>
+                    <li><a href="#">E-commerce</a></li>
+                    <li><a href="#">GED</a></li>
+                </ul>
+        </li>
+    {% else %}
+        <li class="{{ current }}">
+            <a href="{{ link.url }}">{{ link.text }}</a>
+        </li>
+{% endif %}
+{% endfor %}
