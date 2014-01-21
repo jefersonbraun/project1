@@ -22,7 +22,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.1;
   color: #474747;
@@ -341,8 +341,19 @@ h6,
 }
 
 .post h1 {
+    font-family: "roboto slab", serif;
     font-size: 50px;
     color: #474747;
+}
+
+.post .fakeh1 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 42px;
+    color: #474747;
+    display: inline-block;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #f26b36;
+    margin-bottom: 0px;
 }
 
 .post .meta {
@@ -359,7 +370,6 @@ h6,
 }
 
 .post .tagline {
-    text-align: right;
     font-size: 24px;
     font-weight: lighter;
     font-style: italic;
@@ -370,6 +380,20 @@ h6,
     max-width: 100%;
     display: block;
     margin: 0 auto;
+}
+
+.post .v-center {
+    display:table-cell;
+    vertical-align:middle;
+    float:none;
+    padding: 0 0 50px 0;
+}
+
+@media screen and (max-width: 991px) {
+    .post .v-center {
+        display:block;
+        padding: 0;
+    }
 }
 
 .caption h3 {
