@@ -10,14 +10,29 @@ exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
 pygments: true
 
-topbar:
+#Lista de páginas (na ordem desejada) para o menu principal e seus respectivos links
+navigation:
   - 
-    url : '/usage/index.html'
-    title : 'Start Blogging'
+    url : '/'
+    text : 'Home'
   - 
-    url : '/developers/index.html'
-    title : 'Developers'
-
+    url : '/blog/index.html'
+    text : 'Blog'
+    layout : 'post'
+  - 
+    url : ''
+    text : 'Soluções'
+    layout : 'solucoes'
+  - 
+    url : '/produtos/index.html'
+    text : 'Produtos'
+  - 
+    url : '/clientes/index.html'
+    text : 'Clientes'
+  - 
+    url : '/contato/index.html'
+    text : 'Contato'
+  
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
