@@ -175,6 +175,10 @@ h6,
   border-bottom-color: #fff;
 }
 
+.caret {
+  margin-left: 7px;
+}
+
 @media (max-width: 767px) {
   .navbar-main .navbar-nav .open .dropdown-menu > li > a {
     color: #777777;
