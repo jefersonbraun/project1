@@ -1,7 +1,7 @@
 ---
 title: Google Search Appliance 7.0 recebe elogios da Fiat e da Hays
 author: Jeferson Braun
-featimage: "/images/fiat-e-hays-1.png"
+featimage: "/images/gsa-fiat-hays-1.png"
 layout: post
 category: "busca-corporativa"
 tags: 
@@ -10,7 +10,7 @@ tags:
 
 O Google lançou nessa terça-feira, 09, a versão 7.0 Google Search Appliance. A nova versão traz diversos novos recursos e já foi bem recebida, tendo boas recomendações da Fiat e da Hays, que ficaram impressionadas com a qualidade do Appliance.
 
-![Resultado de busca do site da Fiat](/images/fiat-e-hays-1.png)
+![Resultado de busca do site da Fiat](/images/gsa-fiat-hays-2.png)
 <small>Resultado de busca do site da Fiat</small>
 
 >“As melhorias do novo GSA 7.0 nos deram um salto significante em capacidade.” – Jacky Carter, chefe de eCRM na Hays.
