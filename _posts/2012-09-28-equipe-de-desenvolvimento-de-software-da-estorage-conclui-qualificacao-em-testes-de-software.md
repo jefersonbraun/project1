@@ -14,7 +14,7 @@ Visando aperfeiçoar o processo de desenvolvimento de software, a E-Storage prom
 
 Mesmo contando com uma equipe técnica altamente qualificada, ainda permanecia uma lacuna a ser preenchida no que diz respeito às melhores práticas em testes. Então, a decisão foi de proporcionar a qualificação de Testes de Software a todos os colaboradores da área de desenvolvimento.
 
-A formação foi ministrada em parceria com a DBServer, empresa especialista em serviços e consultoria em Testes. Com um treinamento customizado conforme a necessidade da E-Storage, o aproveitamento do conteúdo programático foi maximizado, permitindo que, mesmo durante o curso, os conceitos pudessem ser aplicados em projetos que estavam em andamento.
+A formação foi ministrada em parceria com a [DBServer](http://www.dbserver.com.br/), empresa especialista em serviços e consultoria em Testes. Com um treinamento customizado conforme a necessidade da E-Storage, o aproveitamento do conteúdo programático foi maximizado, permitindo que, mesmo durante o curso, os conceitos pudessem ser aplicados em projetos que estavam em andamento.
 
 A expectativa é que em pouco tempo o investimento na qualificação se traduza em maior qualidade do produto final entregue aos clientes, além da redução drástica em horas dedicadas a retrabalho por conta das correções de defeitos.
 
