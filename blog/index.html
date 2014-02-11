@@ -36,15 +36,15 @@ title: Blog Busca Corporativa
             <div class="row">
                 <div class="pagination">
                   {% if paginator.page == 2 %}
-                    <a href="/blog" class="previous">Anterior</a>
+                    <a href="/project1/blog" class="previous">Anterior</a>
                   {% elsif paginator.previous_page %}
-                    <a href="/blog/page{{ paginator.previous_page }}" class="previous">Anterior</a>
+                    <a href="/project1/blog/page{{ paginator.previous_page }}" class="previous">Anterior</a>
                   {% else %}
                     <span class="previous">Anterior</span>
                   {% endif %} | 
                   <span class="page_number ">Pág. {{ paginator.page }} de {{ paginator.total_pages }}</span>
                    | {% if paginator.next_page %}
-                    <a href="/blog/page{{ paginator.next_page }}" class="next">Próxima</a>
+                    <a href="/project1/blog/page{{ paginator.next_page }}" class="next">Próxima</a>
                   {% else %}
                     <span class="next ">Próxima</span>
                   {% endif %}
