@@ -18,8 +18,8 @@ title: Blog Busca Corporativa
             {% for post in paginator.posts %}
             <div class="col-sm-6 col-md-4 col-lg-4">
                 <div class="thumbnail">
-                    <a href="{{ PRODUCTION_URL }}{{ post.url }}">
-                        <div class="thumbPost" style="background-image: url('{{ post.featimage }}'); background-position: center;"></div>
+                    <a href="/project1/{{ post.url }}">
+                        <div class="thumbPost" style="background-image: url('/project1/{{ post.featimage }}'); background-position: center;"></div>
                     </a>
                     <div class="caption">
                         <p class="miniData">{% include themes/estorage/date.md %}</p>
