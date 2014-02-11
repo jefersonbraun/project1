@@ -4,8 +4,7 @@ permalink: :categories/:title.html
 
 host:        0.0.0.0
 port:        4000
-baseurl:     project1/                      
-url:         http://localhost:4000
+baseurl:     /                      #baseurl precisa ficar assim para funcionar localmente
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
@@ -14,10 +13,10 @@ pygments: true
 #Lista de páginas (na ordem desejada) para o menu principal e seus respectivos links
 navigation:
   - 
-    url : '/project1'
+    url : 'project1/'
     text : 'Home'
   - 
-    url : '/blog/index.html'
+    url : 'project1/blog/index.html'
     text : 'Blog'
     layout : 'post'
   - 
@@ -25,13 +24,13 @@ navigation:
     text : 'Soluções'
     layout : 'solucoes'
   - 
-    url : '/produtos/index.html'
+    url : 'project1/produtos/index.html'
     text : 'Produtos'
   - 
-    url : '/clientes/index.html'
+    url : 'project1/clientes/index.html'
     text : 'Clientes'
   - 
-    url : '/contato/index.html'
+    url : 'project1/contato/index.html'
     text : 'Contato'
   
 # Themes are encouraged to use these universal variables 
