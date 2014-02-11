@@ -4,7 +4,7 @@ permalink: :categories/:title.html
 
 host:        0.0.0.0
 port:        4000
-baseurl:     project1/                      #baseurl precisa ficar assim para funcionar localmente
+baseurl:     project1/                      
 url:         http://localhost:4000
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
@@ -14,7 +14,7 @@ pygments: true
 #Lista de páginas (na ordem desejada) para o menu principal e seus respectivos links
 navigation:
   - 
-    url : '/'
+    url : '/project1'
     text : 'Home'
   - 
     url : '/blog/index.html'
