@@ -13,7 +13,7 @@ pygments: true
 #Lista de páginas (na ordem desejada) para o menu principal e seus respectivos links
 navigation:
   - 
-    url : '/project1'
+    url : 'http://jefersonbraun.github.io/project1'
     text : 'Home'
   - 
     url : '/project1/blog/index.html'
