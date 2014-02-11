@@ -4,7 +4,8 @@ permalink: :categories/:title.html
 
 host:        0.0.0.0
 port:        4000
-baseurl:     http://jefersonbraun.github.io/project1                      #baseurl precisa ficar assim para funcionar localmente
+baseurl:     project1/                      #baseurl precisa ficar assim para funcionar localmente
+url:         http://localhost:4000
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
