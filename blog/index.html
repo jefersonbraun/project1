@@ -18,8 +18,8 @@ title: Blog Busca Corporativa
             {% for post in paginator.posts %}
             <div class="col-sm-6 col-md-4 col-lg-4">
                 <div class="thumbnail">
-                    <a href="/project1/{{ post.url }}">
-                        <div class="thumbPost" style="background-image: url('/project1/{{ post.featimage }}'); background-position: center;"></div>
+                    <a href="{{ post.url }}">
+                        <div class="thumbPost" style="background-image: url('{{ post.featimage }}'); background-position: center;"></div>
                     </a>
                     <div class="caption">
                         <p class="miniData">{% include themes/estorage/date.md %}</p>
@@ -36,15 +36,15 @@ title: Blog Busca Corporativa
             <div class="row">
                 <div class="pagination">
                   {% if paginator.page == 2 %}
-                    <a href="/project1/blog" class="previous">Anterior</a>
+                    <a href="blog" class="previous">Anterior</a>
                   {% elsif paginator.previous_page %}
-                    <a href="/project1/blog/page{{ paginator.previous_page }}" class="previous">Anterior</a>
+                    <a href="/blog/page{{ paginator.previous_page }}" class="previous">Anterior</a>
                   {% else %}
                     <span class="previous">Anterior</span>
                   {% endif %} | 
                   <span class="page_number ">Pág. {{ paginator.page }} de {{ paginator.total_pages }}</span>
                    | {% if paginator.next_page %}
-                    <a href="/project1/blog/page{{ paginator.next_page }}" class="next">Próxima</a>
+                    <a href="/blog/page{{ paginator.next_page }}" class="next">Próxima</a>
                   {% else %}
                     <span class="next ">Próxima</span>
                   {% endif %}

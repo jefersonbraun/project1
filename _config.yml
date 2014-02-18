@@ -4,7 +4,7 @@ permalink: :categories/:title.html
 
 host:        0.0.0.0
 port:        4000
-baseurl:     /project1                      #baseurl precisa ficar assim para funcionar localmente
+baseurl:     /                      #baseurl precisa ficar assim para funcionar localmente
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
@@ -13,10 +13,10 @@ pygments: true
 #Lista de páginas (na ordem desejada) para o menu principal e seus respectivos links
 navigation:
   - 
-    url : 'http://jefersonbraun.github.io/project1'
+    url : '/'
     text : 'Home'
   - 
-    url : '/project1/blog/index.html'
+    url : '/blog/index.html'
     text : 'Blog'
     layout : 'post'
   - 
@@ -24,13 +24,13 @@ navigation:
     text : 'Soluções'
     layout : 'solucoes'
   - 
-    url : '/project1/produtos/index.html'
+    url : '/produtos/index.html'
     text : 'Produtos'
   - 
-    url : '/project1/clientes/index.html'
+    url : '/clientes/index.html'
     text : 'Clientes'
   - 
-    url : '/project1/contato/index.html'
+    url : '/contato/index.html'
     text : 'Contato'
   
 # Themes are encouraged to use these universal variables 
