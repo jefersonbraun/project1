@@ -1,0 +1,8 @@
+#
+# robots.txt
+#
+# Arquivo temporário para que o conteúdo do site não seja indexado pelos buscadores enquanto estiver em fase de desenvolvimento
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /
